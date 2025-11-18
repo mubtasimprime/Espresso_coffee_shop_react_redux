@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Rancho&display=swap");
+@import "tailwindcss";
+
+.rancho {
+  font-family: "Rancho", cursive;
+}
+
+.btn-bg {
+  background-color: #e3b577;
+}
+
+.btn-bg:hover {
+  background-color: transparent;
+  color: white;
+}
+
+/* Dark mode styles */
+.dark {
+  background-color: #1a202c;
+  color: #e2e8f0;
+}
+
+.dark .bg-white {
+  background-color: #2d3748;
+}
+
+.dark .text-gray-700 {
+  color: #e2e8f0;
+}
+
+.dark .text-gray-600 {
+  color: #cbd5e0;
+}
