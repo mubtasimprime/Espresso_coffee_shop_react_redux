@@ -59,5 +59,5 @@ Make sure you have the following installed on your system:
 
 ### 📞 Contact
 
-Md. Mubtasim Fuad
+Developer: Md. Mubtasim Fuad
 Email: mubtasimfuadrafiq@gmail.com
